@@ -1,20 +1,4 @@
-name: Michelle S Power
-favicon: null
-layout_spectrum: 0.62966
-typography_spectrum: 0.37346
-title: 'Never Enough Time! - MP'
-cta:
-  domain: null
-  bucket: null
-  version: null
-analytics:
-  google: null
-  facebook: null
-  twitter: null
-opengraph:
-  image: null
-  type: null
-  appId: null
+analytics: {}
 color:
   brandColors:
     - '#f3f3f2'
@@ -22,11 +6,14 @@ color:
     - '#960078'
     - '#c883b9'
     - '#666666'
-  brandStrength: 0.25
-  lightness: 0.3125
-  saturation: 0.1875
-  rhythmicContrast: 0.5
+  brandStrength: 0.18581
+  lightness: 0.213963
+  rhythmicContrast: 0.368243
+  saturation: 0.298423
+cta: {}
+layout_spectrum: 0.452702
+name: Michelle S Power
+opengraph: {}
 purpose:
-  - name: null
-    item: null
-    url: null
+  - {}
+typography_spectrum: 0.37346
