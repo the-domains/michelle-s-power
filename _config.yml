@@ -1,18 +1,18 @@
 analytics: {}
 color:
   brandColors:
-    - '#FF6700'
-    - '#EBEBEB'
-    - '#C0C0C0'
-    - '#3A6EA5'
-    - '#004E98'
-  brandStrength: 0.8899404391255078
-  lightness: 0.6507891992364846
-  rhythmicContrast: 0.7061755097372829
-  saturation: 0.8669979858892224
+    - '#B0B8C8'
+    - '#604818'
+    - '#9098A0'
+    - '#705830'
+    - '#000000'
+  brandStrength: 0.88994
+  lightness: 0.724099
+  rhythmicContrast: 0.706175
+  saturation: 0.866997
 cta: {}
-layout_spectrum: 0.051775178175370695
+layout_spectrum: 1
 name: Michelle S Power
 opengraph: {}
 purpose: {}
-typography_spectrum: 0.651582875264226
+typography_spectrum: 0.010135
