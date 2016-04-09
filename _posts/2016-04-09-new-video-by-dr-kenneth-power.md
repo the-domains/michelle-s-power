@@ -1,13 +1,16 @@
 ---
-author: []
-related: []
-publisher:
-  url: 'https://photos.google.com'
-  name: Google Photos
-  favicon: 'https://ssl.gstatic.com/social/photosui/images/logo_photos_color_192.png'
-  domain: goo.gl
+inFeed: true
+hasPage: false
+inNav: false
+isBasedOnUrl: 'https://goo.gl/photos/EuhGu1KS3VQcqrAZ6'
+inLanguage: null
+starred: false
 keywords: []
 description: ''
+datePublished: '2016-04-09T15:43:16.252Z'
+dateModified: '2016-04-09T15:43:07.418Z'
+author: []
+related: []
 app_links:
   - namespace: twitter
     type: ipad
@@ -18,15 +21,15 @@ app_links:
   - namespace: twitter
     type: iphone
     id: id962194608
-isBasedOnUrl: 'https://goo.gl/photos/EuhGu1KS3VQcqrAZ6'
 title: New video by Dr. Kenneth Power
-datePublished: '2016-04-09T15:42:38.014Z'
-dateModified: '2016-04-09T15:25:25.481Z'
 sourcePath: _posts/2016-04-09-new-video-by-dr-kenneth-power.md
 published: true
-inFeed: true
-hasPage: false
-inNav: false
+authors: []
+publisher:
+  name: Google Photos
+  domain: goo.gl
+  url: 'https://photos.google.com'
+  favicon: 'https://ssl.gstatic.com/social/photosui/images/logo_photos_color_192.png'
 _context: 'http://schema.org'
 _type: MediaObject
 
