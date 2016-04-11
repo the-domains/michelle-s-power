@@ -6,10 +6,10 @@ color:
     - '#960078'
     - '#c883b9'
     - '#666666'
-  brandStrength: 0.18581
-  lightness: 0.213963
+  brandStrength: 0.483953
+  lightness: 0.516047
   rhythmicContrast: 0.368243
-  saturation: 0.298423
+  saturation: 0.530405
 cta: {}
 layout_spectrum: 0.070101
 name: Michelle S Power
